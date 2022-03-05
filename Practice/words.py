@@ -11,6 +11,5 @@ story.close()
 for word in story_words:
     print(word)
 
-
 if __name__ == '__main__':
     fetch_words()
